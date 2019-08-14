@@ -1,0 +1,6 @@
+C:\Users\v-luzane\source\repos\SubscriberApp\SubscribersApp.Domain\bin\Debug\SubscribersApp.Domain.dll
+C:\Users\v-luzane\source\repos\SubscriberApp\SubscribersApp.Domain\bin\Debug\SubscribersApp.Domain.pdb
+C:\Users\v-luzane\source\repos\SubscriberApp\SubscribersApp.Domain\obj\Debug\SubscribersApp.Domain.csprojAssemblyReference.cache
+C:\Users\v-luzane\source\repos\SubscriberApp\SubscribersApp.Domain\obj\Debug\SubscribersApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\v-luzane\source\repos\SubscriberApp\SubscribersApp.Domain\obj\Debug\SubscribersApp.Domain.dll
+C:\Users\v-luzane\source\repos\SubscriberApp\SubscribersApp.Domain\obj\Debug\SubscribersApp.Domain.pdb
